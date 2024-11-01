@@ -1,1 +1,1 @@
-# Mashine-Learning
+# Machine-Learning
